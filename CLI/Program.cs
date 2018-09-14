@@ -11,7 +11,8 @@ namespace CLI
             {
                 Console.Write(">");
                 var hold = Console.ReadLine();
-                interpreter.Runner(hold);
+                hold =interpreter.Runner(hold);
+                Console.WriteLine(hold);
             }
         }
     }

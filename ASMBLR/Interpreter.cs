@@ -9,12 +9,13 @@ namespace ASMBLR
         
         private static readonly Dictionary<string, string> Strings = new Dictionary<string, string>();
         private static readonly Dictionary<string, int> Ints = new Dictionary<string, int>();
-        public void Runner(string command)
+        public string Runner(string command)
         {
             var spaceSplit = command.Split(' ');//breaks command by space
             var keyword = "";//reads keywords
             var args = "";//reads first arg or source
             var dest = "";//reads second arg or destination
+            var output = "";
             try
             {
                 args = spaceSplit[1];
@@ -25,7 +26,7 @@ namespace ASMBLR
 
             switch (keyword)
             { case "sh":
-                Console.WriteLine(args);
+                output = args;
                 break;
                 case "dc":
                     try
@@ -40,11 +41,11 @@ namespace ASMBLR
                 case "pt":
                     try
                     {
-                        Console.WriteLine(Ints[args]);
+                        output=Ints[args].ToString();
                     }
                     catch (Exception e)
                     {
-                        Console.WriteLine(Strings[args]);
+                        output=Strings[args];
                     }
                     break;
                 case "ad":
@@ -71,6 +72,7 @@ namespace ASMBLR
                     break;
             }
 
+            return output;
 
 
         }
