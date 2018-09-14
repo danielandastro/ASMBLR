@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASMBLR", "ASMBLR\ASMBLR.csproj", "{99472200-92E1-477B-B6D7-9086B70A027D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic runner tests", "Basic runner tests\Basic runner tests.csproj", "{9E9F4AF1-B70F-45BF-9D47-1C0FADAC58A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI", "CLI\CLI.csproj", "{90598DEF-E0F3-43CD-BB63-6013D1341C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99472200-92E1-477B-B6D7-9086B70A027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99472200-92E1-477B-B6D7-9086B70A027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99472200-92E1-477B-B6D7-9086B70A027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99472200-92E1-477B-B6D7-9086B70A027D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9F4AF1-B70F-45BF-9D47-1C0FADAC58A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9F4AF1-B70F-45BF-9D47-1C0FADAC58A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9F4AF1-B70F-45BF-9D47-1C0FADAC58A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9F4AF1-B70F-45BF-9D47-1C0FADAC58A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90598DEF-E0F3-43CD-BB63-6013D1341C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90598DEF-E0F3-43CD-BB63-6013D1341C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90598DEF-E0F3-43CD-BB63-6013D1341C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90598DEF-E0F3-43CD-BB63-6013D1341C50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

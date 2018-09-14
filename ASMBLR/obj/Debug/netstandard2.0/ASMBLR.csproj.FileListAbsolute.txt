@@ -1,0 +1,9 @@
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/bin/Debug/netstandard2.0/ASMBLR.deps.json
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/bin/Debug/netstandard2.0/ASMBLR.dll
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/bin/Debug/netstandard2.0/ASMBLR.pdb
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/obj/Debug/netstandard2.0/ASMBLR.csprojResolveAssemblyReference.cache
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/obj/Debug/netstandard2.0/ASMBLR.csproj.CoreCompileInputs.cache
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/obj/Debug/netstandard2.0/ASMBLR.AssemblyInfoInputs.cache
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/obj/Debug/netstandard2.0/ASMBLR.AssemblyInfo.cs
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/obj/Debug/netstandard2.0/ASMBLR.dll
+/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/obj/Debug/netstandard2.0/ASMBLR.pdb

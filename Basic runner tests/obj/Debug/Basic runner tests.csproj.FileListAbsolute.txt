@@ -1,0 +1,10 @@
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/bin/Debug/Basic_runner_tests.dll
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/bin/Debug/Basic_runner_tests.pdb
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/bin/Debug/ASMBLR.dll
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/bin/Debug/nunit.framework.dll
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/bin/Debug/ASMBLR.pdb
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/bin/Debug/nunit.framework.xml
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/obj/Debug/Basic runner tests.csprojResolveAssemblyReference.cache
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/obj/Debug/Basic runner tests.csproj.CoreCompileInputs.cache
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/obj/Debug/Basic_runner_tests.dll
+/Users/danielshroff/RiderProjects/ASMBLR/Basic runner tests/obj/Debug/Basic_runner_tests.pdb
