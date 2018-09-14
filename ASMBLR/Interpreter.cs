@@ -60,6 +60,15 @@ namespace ASMBLR
                         Strings[dest] = Strings[args];
                     }
                     break;
+                case "ml":
+                    Ints[args] =Ints[args] *  Ints[dest];
+                    break;
+                case "dv":
+                    Ints[args] =Ints[args] /  Ints[dest];
+                    break;
+                case "sb":
+                    Ints[args] =Ints[args] -  Ints[dest];
+                    break;
             }
 
 

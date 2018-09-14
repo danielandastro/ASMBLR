@@ -32,7 +32,7 @@ namespace Basic_runner_tests
             interpreter.Runner("pt txt");
         }
         [Test]
-        public void AddPrintTest()
+        public void OpsPrintTest()
         {
             Assert.True(true);
             var interpreter = new Interpreter();
@@ -40,6 +40,21 @@ namespace Basic_runner_tests
             interpreter.Runner("dc ad 20");
             interpreter.Runner("ad add ad");
             interpreter.Runner("pt add");
+           
+            interpreter.Runner("dc sub 32");
+            interpreter.Runner("dc sb 20");
+            interpreter.Runner("sb sub sb");
+            interpreter.Runner("pt sub");
+            
+            interpreter.Runner("dc div 20");
+            interpreter.Runner("dc dv 2");
+            interpreter.Runner("dv div dv");
+            interpreter.Runner("pt div");
+            
+            interpreter.Runner("dc mul 32");
+            interpreter.Runner("dc ml 20");
+            interpreter.Runner("ml mul ml");
+            interpreter.Runner("pt mul");
         }
         [Test]
         public void MovePrintTest()
