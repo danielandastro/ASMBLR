@@ -45,11 +45,19 @@ namespace ASMBLR
                     }
                     catch (Exception e)
                     {
-                        output=Strings[args];
+                        try {output=Strings[args];}
+                        catch (Exception)
+                        {
+                            output = "Error: Variable "+args+" may not be initialised correctly";
+                        }
                     }
                     break;
                 case "ad":
-                    Ints[args] += Ints[dest];
+                    try{Ints[args] += Ints[dest];}
+                    catch (Exception)
+                    {
+                        output = "Error: Variable "+args+" or "+dest+" may not be initialised correctly";
+                    }
                     break;
                 case "mv":
                     try
@@ -62,13 +70,28 @@ namespace ASMBLR
                     }
                     break;
                 case "ml":
-                    Ints[args] =Ints[args] *  Ints[dest];
+                    try{Ints[args] =Ints[args] *  Ints[dest];}
+                    catch (Exception)
+                    {
+                        output = "Error: Variable "+args+" or "+dest+" may not be initialised correctly";
+                    }
                     break;
                 case "dv":
-                    Ints[args] =Ints[args] /  Ints[dest];
+                    try
+                    {
+                        Ints[args] = Ints[args] / Ints[dest];
+                    }
+                    catch (Exception)
+                    {
+                        output = "Error: Variable "+args+" or "+dest+" may not be initialised correctly";
+                    }
                     break;
                 case "sb":
-                    Ints[args] =Ints[args] -  Ints[dest];
+                    try{Ints[args] =Ints[args] -  Ints[dest];}
+                    catch (Exception)
+                    {
+                        output = "Error: Variable "+args+" or "+dest+" may not be initialised correctly";
+                    }
                     break;
             }
 
