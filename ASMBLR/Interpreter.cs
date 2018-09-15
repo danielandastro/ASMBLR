@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections;
-using System.Security.Cryptography.X509Certificates;
 using System.Collections.Generic;
 namespace ASMBLR
 {
@@ -33,7 +31,7 @@ namespace ASMBLR
                     {
                         Ints [args] = int.Parse(dest);
                     }
-                    catch (Exception e)
+                    catch (Exception )
                     {
                         Strings[args] = dest;
                     }
@@ -43,7 +41,7 @@ namespace ASMBLR
                     {
                         output=Ints[args].ToString();
                     }
-                    catch (Exception e)
+                    catch (Exception )
                     {
                         try {output=Strings[args];}
                         catch (Exception)
