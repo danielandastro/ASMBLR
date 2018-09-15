@@ -91,6 +91,9 @@ namespace ASMBLR
                         output = "Error: Variable "+args+" or "+dest+" may not be initialised correctly";
                     }
                     break;
+                    default:
+                        Console.WriteLine("Error: "+spaceSplit[0]+" is not a recognised command");
+                        break;
             }
 
             return output;
