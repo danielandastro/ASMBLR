@@ -1,7 +1,7 @@
 language: csharp
-solution: ASSMBLR.sln
+solution: ASMBLR.sln
 install:
-  - nuget restore ASSMBLR.sln
+  - nuget restore ASMBLR.sln
   - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release ASMBLR.sln
