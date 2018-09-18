@@ -1,13 +1,14 @@
 ﻿using System;
 using ASMBLR;
-namespace CLI
+
+namespace Standard_Interpreter_CLI
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("ASMBLR Core CLI, using ASMBLR version "+Interpreter.ver);
             var interpreter = new Interpreter();
+            Console.WriteLine("ASMBLR Standard CLI, using AMBLR version "+Interpreter.ver);
             while (true)
             {
                 Console.Write(">");

@@ -1,0 +1,8 @@
+language: csharp
+solution: ASMBLR.sln
+install:
+  - nuget restore ASMBLR.sln
+  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release ASMBLR.sln
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe "./Basic runner tests/bin/Debug/Basic_runner_tests.dll"
