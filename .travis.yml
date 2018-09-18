@@ -1,4 +1,4 @@
-language: c#
+language: csharp
 solution: ASSMBLR.sln
 install:
   - nuget restore solution-name.sln
