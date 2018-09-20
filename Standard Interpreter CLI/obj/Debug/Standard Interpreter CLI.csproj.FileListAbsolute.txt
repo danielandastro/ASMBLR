@@ -1,0 +1,8 @@
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/bin/Debug/ASMBLR.dll
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/bin/Debug/ASMBLR.pdb
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/obj/Debug/Standard Interpreter CLI.csprojResolveAssemblyReference.cache
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/obj/Debug/Standard Interpreter CLI.csproj.CoreCompileInputs.cache
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/obj/Debug/Standard_Interpreter_CLI.exe
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/obj/Debug/Standard_Interpreter_CLI.pdb
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/bin/Debug/Standard_Interpreter_CLI.exe
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/bin/Debug/Standard_Interpreter_CLI.pdb

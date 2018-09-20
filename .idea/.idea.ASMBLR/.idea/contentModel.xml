@@ -9,7 +9,10 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Interpreter.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="ASMBLR.AssemblyInfo.cs" t="Include" />
+            </e>
             <e p="netstandard2.0" t="Include">
               <e p="ASMBLR.AssemblyInfo.cs" t="Include" />
             </e>
@@ -30,7 +33,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="CLI.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp2.0" t="Include">
               <e p="CLI.AssemblyInfo.cs" t="Include" />
             </e>

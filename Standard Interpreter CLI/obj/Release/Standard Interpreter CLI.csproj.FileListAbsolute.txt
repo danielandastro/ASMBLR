@@ -1,0 +1,7 @@
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/bin/Release/Standard_Interpreter_CLI.exe
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/bin/Release/Standard_Interpreter_CLI.pdb
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/bin/Release/ASMBLR.dll
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/bin/Release/ASMBLR.pdb
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/obj/Release/Standard Interpreter CLI.csproj.CoreCompileInputs.cache
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/obj/Release/Standard_Interpreter_CLI.exe
+/Users/danielshroff/RiderProjects/ASMBLR/Standard Interpreter CLI/obj/Release/Standard_Interpreter_CLI.pdb

@@ -199,7 +199,7 @@
       },
       "ASMBLR/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETCoreApp,Version=v2.0",
         "compile": {
           "bin/placeholder/ASMBLR.dll": {}
         },
