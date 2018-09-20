@@ -1,0 +1,81 @@
+<Page
+	x:Class= TODO: Replace with "Project.XamlFileName"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d">
+
+	<Grid Background="{ ThemeResource ApplicationPageBackgroundThemeBrush }">
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="37.7263784408569*" />
+				<RowDefinition Height="60.4166666666667*" />
+				<RowDefinition Height="901.856954892476*" />
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="1455.91136791088*" />
+				<ColumnDefinition Width="187.037037037037*" />
+				<ColumnDefinition Width="0*" />
+			</Grid.ColumnDefinitions>
+			<Button Content="."
+				Grid.Row="1"  Grid.Column="1"
+				HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"
+				FontSize="24">
+			</Button>
+		</Grid>
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="165.851370493571*" />
+				<RowDefinition Height="0*" />
+				<RowDefinition Height="834.148629506429*" />
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="1572.57803457755*" />
+				<ColumnDefinition Width="0*" />
+				<ColumnDefinition Width="0*" />
+			</Grid.ColumnDefinitions>
+			<TextBlock Text="."
+				Grid.Row="1"  Grid.Column="1"
+				HorizontalAlignment="Center"  VerticalAlignment="Center"
+				FontSize="8">
+			</TextBlock>
+		</Grid>
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="446.850363413493*" />
+				<RowDefinition Height="84.8818858464559*" />
+				<RowDefinition Height="468.267750740051*" />
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="231.741022180628*" />
+				<ColumnDefinition Width="787.54153781467*" />
+				<ColumnDefinition Width="0*" />
+			</Grid.ColumnDefinitions>
+			<TextBox PlaceholderText="."
+				Grid.Row="1"  Grid.Column="1"
+				HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"
+				FontSize="54">
+			</TextBox>
+		</Grid>
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="27.2834618886312*" />
+				<RowDefinition Height="395.944881439209*" />
+				<RowDefinition Height="576.77165667216*" />
+			</Grid.RowDefinitions>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="120.664893256293*" />
+				<ColumnDefinition Width="890.988611291956*" />
+				<ColumnDefinition Width="0*" />
+			</Grid.ColumnDefinitions>
+			<TextBlock 
+				Grid.Row="1"  Grid.Column="1"
+				HorizontalAlignment="Center"  VerticalAlignment="Center"
+				FontSize="24"
+				TextWrapping="WrapWholeWords">
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque rutrum quam ultrices dolor imperdiet, nec fringilla quam pretium. Duis facilisis arcu elit. Aenean sapien nisl, euismod ac aliquet porttitor, ultricies eu nulla. Phasellus porta tortor a efficitur elementum. Aliquam sit amet orci et libero pellentesque gravida.
+			</TextBlock>
+		</Grid>
+	</Grid>
+</Page>
