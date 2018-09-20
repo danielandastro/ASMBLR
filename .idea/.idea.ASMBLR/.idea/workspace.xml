@@ -31,18 +31,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf28cf30-dc81-4929-afb2-3eab36bad9de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ASMBLR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ASMBLR/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ASMBLR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ASMBLR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic runner tests/obj/Debug/Basic runner tests.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Basic runner tests/obj/Debug/Basic runner tests.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/ASMBLR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/ASMBLR.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/ASMBLR.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/ASMBLR.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/CLI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/CLI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/CLI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/CLI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/obj/Debug/netcoreapp2.0/CLI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/obj/Debug/netcoreapp2.0/CLI.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/obj/Debug/netcoreapp2.0/CLI.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/obj/Debug/netcoreapp2.0/CLI.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/obj/Debug/netcoreapp2.0/CLI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/obj/Debug/netcoreapp2.0/CLI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLI/obj/Debug/netcoreapp2.0/CLI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/obj/Debug/netcoreapp2.0/CLI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLI/ASMBLR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CLI/ASMBLR.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Interpreter CLI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Interpreter CLI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Interpreter CLI/bin/Debug/Standard_Interpreter_CLI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Interpreter CLI/bin/Debug/Standard_Interpreter_CLI.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Interpreter CLI/bin/Debug/Standard_Interpreter_CLI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Interpreter CLI/bin/Debug/Standard_Interpreter_CLI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Interpreter CLI/obj/Debug/Standard Interpreter CLI.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Interpreter CLI/obj/Debug/Standard Interpreter CLI.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Interpreter CLI/obj/Debug/Standard_Interpreter_CLI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Interpreter CLI/obj/Debug/Standard_Interpreter_CLI.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Standard Interpreter CLI/obj/Debug/Standard_Interpreter_CLI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Standard Interpreter CLI/obj/Debug/Standard_Interpreter_CLI.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,19 +49,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CLI/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="121" selection-start-line="14" selection-start-column="121" selection-end-line="14" selection-end-column="121" />
+            <state relative-caret-position="165">
+              <caret line="11" column="52" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="52" />
               <folding>
-                <marker date="1537422197209" expanded="true" signature="6:45" ph="..." />
-                <marker date="1537422197209" expanded="true" signature="59:822" ph="{...}" />
-                <marker date="1537422197209" expanded="true" signature="79:820" ph="{...}" />
-                <marker date="1537422197209" expanded="true" signature="125:814" ph="{...}" />
-                <marker date="1537422197209" expanded="true" signature="381:579" ph="{...}" />
-                <marker date="1537422197209" expanded="true" signature="418:578" ph="{...}" />
-                <marker date="1537422197209" expanded="true" signature="604:804" ph="{...}" />
+                <marker date="1537422311843" expanded="true" signature="6:45" ph="..." />
+                <marker date="1537422311843" expanded="true" signature="59:816" ph="{...}" />
+                <marker date="1537422311843" expanded="true" signature="79:814" ph="{...}" />
+                <marker date="1537422311843" expanded="true" signature="125:808" ph="{...}" />
+                <marker date="1537422311843" expanded="true" signature="375:573" ph="{...}" />
+                <marker date="1537422311843" expanded="true" signature="412:572" ph="{...}" />
+                <marker date="1537422311843" expanded="true" signature="598:798" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Standard Interpreter CLI/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+              <folding>
+                <marker date="1537422755096" expanded="true" signature="6:45" ph="..." />
+                <marker date="1537422755096" expanded="true" signature="80:994" ph="{...}" />
+                <marker date="1537422755096" expanded="true" signature="109:992" ph="{...}" />
+                <marker date="1537422755096" expanded="true" signature="162:986" ph="{...}" />
+                <marker date="1537422755096" expanded="true" signature="423:751" ph="{...}" />
+                <marker date="1537422755096" expanded="true" signature="427:663" ph="{...}" />
+                <marker date="1537422755096" expanded="true" signature="464:624" ph="{...}" />
+                <marker date="1537422755096" expanded="true" signature="776:976" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -78,15 +93,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CLI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Standard Interpreter CLI/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Basic runner tests/Tests.cs" />
         <option value="$PROJECT_DIR$/ASMBLR/Interpreter.cs" />
-        <option value="$PROJECT_DIR$/Standard Interpreter CLI/Program.cs" />
         <option value="$PROJECT_DIR$/ASMBLR/.travis.yml" />
         <option value="$PROJECT_DIR$/CLI/Program.cs" />
+        <option value="$PROJECT_DIR$/Standard Interpreter CLI/Program.cs" />
       </list>
     </option>
   </component>
@@ -149,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Standard Interpreter CLI">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/CLI/bin/Debug/netcoreapp2.0/CLI.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -169,6 +185,29 @@
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
       <browser url="http://localhost:5000" />
     </configuration>
+    <configuration name="Standard Interpreter CLI" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Standard Interpreter CLI/bin/Debug/Standard_Interpreter_CLI.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Standard Interpreter CLI/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Standard Interpreter CLI/Standard Interpreter CLI.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.Standard Interpreter CLI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Standard Interpreter CLI" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -186,7 +225,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8942000" />
+    <option name="totallyTimeSpent" value="9494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,11 +245,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.32848486" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32820514" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32820514" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3474359" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.32948717" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TeamCity" order="7" weight="0.23974359" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32820514" />
@@ -355,20 +394,36 @@
     <entry file="file://$PROJECT_DIR$/Basic runner tests/Tests.cs" />
     <entry file="file://$PROJECT_DIR$/Basic runner tests/Tests.cs" />
     <entry file="file://$PROJECT_DIR$/ASMBLR/Interpreter.cs" />
-    <entry file="file://$PROJECT_DIR$/Standard Interpreter CLI/Program.cs" />
     <entry file="file://$PROJECT_DIR$/ASMBLR/.travis.yml" />
     <entry file="file://$PROJECT_DIR$/CLI/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="121" selection-start-line="14" selection-start-column="121" selection-end-line="14" selection-end-column="121" />
+        <state relative-caret-position="165">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="52" />
           <folding>
-            <marker date="1537422197209" expanded="true" signature="6:45" ph="..." />
-            <marker date="1537422197209" expanded="true" signature="59:822" ph="{...}" />
-            <marker date="1537422197209" expanded="true" signature="79:820" ph="{...}" />
-            <marker date="1537422197209" expanded="true" signature="125:814" ph="{...}" />
-            <marker date="1537422197209" expanded="true" signature="381:579" ph="{...}" />
-            <marker date="1537422197209" expanded="true" signature="418:578" ph="{...}" />
-            <marker date="1537422197209" expanded="true" signature="604:804" ph="{...}" />
+            <marker date="1537422311843" expanded="true" signature="6:45" ph="..." />
+            <marker date="1537422311843" expanded="true" signature="59:816" ph="{...}" />
+            <marker date="1537422311843" expanded="true" signature="79:814" ph="{...}" />
+            <marker date="1537422311843" expanded="true" signature="125:808" ph="{...}" />
+            <marker date="1537422311843" expanded="true" signature="375:573" ph="{...}" />
+            <marker date="1537422311843" expanded="true" signature="412:572" ph="{...}" />
+            <marker date="1537422311843" expanded="true" signature="598:798" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Standard Interpreter CLI/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <marker date="1537422755096" expanded="true" signature="6:45" ph="..." />
+            <marker date="1537422755096" expanded="true" signature="80:994" ph="{...}" />
+            <marker date="1537422755096" expanded="true" signature="109:992" ph="{...}" />
+            <marker date="1537422755096" expanded="true" signature="162:986" ph="{...}" />
+            <marker date="1537422755096" expanded="true" signature="423:751" ph="{...}" />
+            <marker date="1537422755096" expanded="true" signature="427:663" ph="{...}" />
+            <marker date="1537422755096" expanded="true" signature="464:624" ph="{...}" />
+            <marker date="1537422755096" expanded="true" signature="776:976" ph="{...}" />
           </folding>
         </state>
       </provider>
