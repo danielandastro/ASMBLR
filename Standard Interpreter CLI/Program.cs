@@ -24,6 +24,7 @@ namespace Standard_Interpreter_CLI
                 var hold = Console.ReadLine();
                 hold =interpreter.Runner(hold);
                 Console.WriteLine(hold);
+                
             }
         }
     }
