@@ -1,5 +1,6 @@
 ﻿using System;
 using ASMBLR;
+using System.Net;
 namespace CLI
 {
     class Program
@@ -8,6 +9,11 @@ namespace CLI
         {
             Console.WriteLine("ASMBLR Core CLI, using ASMBLR version "+Interpreter.ver);
             var interpreter = new Interpreter();
+            Console.WriteLine("Update/repair(y, n)");
+            if(Console.ReadKey().KeyChar.Equals('y')){using (var client = new WebClient())
+            {
+                client.DownloadFile("https://github.com/danielandastro/ASMBLR/blob/update-branch/core.dll?raw=true", "ASMBLR.dll");
+            }}
             while (true)
             {
                 Console.Write(">");
