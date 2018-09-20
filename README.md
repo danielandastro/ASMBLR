@@ -1,3 +1,3 @@
 # ASMBLR
 ASMBLR is an assembly inspired language
-Dont touch this branch, it is for updtaing
+Dont touch this branch, it is for updating
