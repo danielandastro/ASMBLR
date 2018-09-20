@@ -3,4 +3,4 @@ ASMBLR is an assembly inspired language, intended to help teach core programming
 
 [![BuitlWithDot.Net shield](https://builtwithdot.net/project/108/asmblr/badge)](https://builtwithdot.net/project/108/asmblr)
 
-![Build Status](https://danielshroff.visualstudio.com/asmblr/_apis/build/status/&branchName="master")
+[![Build Status](https://danielshroff.visualstudio.com/ASMBLR/_apis/build/status/danielandastro.ASMBLR)](https://danielshroff.visualstudio.com/ASMBLR/_build/latest?definitionId=1)
