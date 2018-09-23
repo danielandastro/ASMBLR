@@ -8,7 +8,7 @@
         Title="ASMBLR" Height="450" Width="800">
     <Grid>
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="419" Margin="719,0,0,0" VerticalAlignment="Top" Width="1"/>
-        <Button x:Name="update" Content="Update&#xD;&#xA;or&#xD;&#xA;Repair" HorizontalAlignment="Left" Margin="720,0,-3,0" VerticalAlignment="Top" Width="75" Click="update_Click"/>
+        <Button x:Name="update" Content="Update" HorizontalAlignment="Left" Margin="720,0,-3,0" VerticalAlignment="Top" Width="75" Click="update_Click"/>
         <TextBox x:Name="cmdInput" HorizontalAlignment="Left" Height="23" Margin="10,383,0,0" TextWrapping="Wrap" Text="Command" VerticalAlignment="Top" Width="704"/>
         <Button x:Name="sbmt" Content="Enter" HorizontalAlignment="Left" Margin="720,383,0,0" VerticalAlignment="Top" Width="72" Height="23" Click="sbmt_Click"/>
         <Label HorizontalAlignment="Left" Margin="0,3,0,0" VerticalAlignment="Top"/>
