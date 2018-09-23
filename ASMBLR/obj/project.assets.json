@@ -541,7 +541,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "7EZAXI8nA3ypWxQ3sCH2WTYKhiPhsnWPuv5RTEHy+5c0VbPS97HBbIX1EdmaT38QALWUfsAGOkxGtx74rR2+zQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -834,36 +834,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/danielshroff/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\Source\\Repos\\ASMBLR\\ASMBLR\\ASMBLR.csproj",
+      "projectUniqueName": "/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/ASMBLR.csproj",
       "projectName": "ASMBLR",
-      "projectPath": "C:\\Users\\Daniel\\Source\\Repos\\ASMBLR\\ASMBLR\\ASMBLR.csproj",
-      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\Source\\Repos\\ASMBLR\\ASMBLR\\obj\\",
+      "projectPath": "/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/ASMBLR.csproj",
+      "packagesPath": "/Users/danielshroff/.nuget/packages/",
+      "outputPath": "/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "/Users/danielshroff/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0",
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Daniel\\AppData\\Roaming\\Cosmos User Kit\\Kernel\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

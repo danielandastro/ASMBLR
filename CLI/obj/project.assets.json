@@ -680,41 +680,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/danielshroff/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\Source\\Repos\\ASMBLR\\CLI\\CLI.csproj",
+      "projectUniqueName": "/Users/danielshroff/RiderProjects/ASMBLR/CLI/CLI.csproj",
       "projectName": "CLI",
-      "projectPath": "C:\\Users\\Daniel\\Source\\Repos\\ASMBLR\\CLI\\CLI.csproj",
-      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\Source\\Repos\\ASMBLR\\CLI\\obj\\",
+      "projectPath": "/Users/danielshroff/RiderProjects/ASMBLR/CLI/CLI.csproj",
+      "packagesPath": "/Users/danielshroff/.nuget/packages/",
+      "outputPath": "/Users/danielshroff/RiderProjects/ASMBLR/CLI/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "/Users/danielshroff/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Daniel\\AppData\\Roaming\\Cosmos User Kit\\Kernel\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Daniel\\Source\\Repos\\ASMBLR\\ASMBLR\\ASMBLR.csproj": {
-              "projectPath": "C:\\Users\\Daniel\\Source\\Repos\\ASMBLR\\ASMBLR\\ASMBLR.csproj"
+            "/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/ASMBLR.csproj": {
+              "projectPath": "/Users/danielshroff/RiderProjects/ASMBLR/ASMBLR/ASMBLR.csproj"
             }
           }
         }
@@ -729,6 +723,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

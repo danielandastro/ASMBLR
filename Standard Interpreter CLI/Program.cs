@@ -9,7 +9,7 @@ namespace Standard_Interpreter_CLI
         {
             var interpreter = new Interpreter();
             Console.WriteLine("ASMBLR Standard CLI, using ASMBLR version "+Interpreter.ver);
-            Console.WriteLine("Update/Repair (y, n)");
+            Console.WriteLine("Update(y, n)");
             if(Console.ReadLine().Equals('y')){try{using (var client = new WebClient())
             {
                 client.DownloadFile("https://github.com/danielandastro/ASMBLR/blob/update-branch/stnd.dll?raw=true", "ASMBLR.dll");
