@@ -4,7 +4,7 @@ namespace ASMBLR
 {
     public class Interpreter
     {
-        public static string ver = "0.2";
+        public const string ver = "0.2";
         private static readonly Dictionary<string, string> Strings = new Dictionary<string, string>();
         private static readonly Dictionary<string, int> Ints = new Dictionary<string, int>();
         public string Runner(string command)
